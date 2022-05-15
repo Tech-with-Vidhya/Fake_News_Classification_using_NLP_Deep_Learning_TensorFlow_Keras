@@ -1,1 +1,1 @@
-# SageMaker-E2E-1
+# Fake_News_Classification_using_NLP_Deep_Learning_TensorFlow_Keras
